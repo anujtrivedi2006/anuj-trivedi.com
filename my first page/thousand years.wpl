@@ -1,0 +1,13 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.19148"/>
+        <meta name="ItemCount" content="1"/>
+        <title>a thousand years</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\..\Desktop\anuj\muzmo_ru_Christina_Perri_-_A_Thousand_Years_7670353.mp3"/>
+        </seq>
+    </body>
+</smil>
